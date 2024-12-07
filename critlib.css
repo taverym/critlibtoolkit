@@ -5,7 +5,7 @@ html {max-width:1260px;
 nav {border:solid}
 nav ul{list-style:none; padding-left:0; margin-top:0; margin-bottom:0; text-align:center}
 nav ul li{text-align: center; display:inline}
-nav ul li a {text-decoration:none; color:black; border:solid;margin:3%; display:inline-block; width: 95px}
+nav ul li a {text-decoration:none; color:black; border:solid;margin:3%; display:inline-block; width: 95px; padding:5px}
 nav ul li a:hover {color:brown}
 body {padding-left: 5%; padding-right: 5%}
 h1,h2,h3,h4,h5,h6 {}
